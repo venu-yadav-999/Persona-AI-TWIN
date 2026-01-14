@@ -1,0 +1,8 @@
+{
+  "name": "PersonaEngine AI",
+  "description": "An advanced AI Digital Persona Engine for creating secure, lifelike digital twins for professional communication and real-time meeting representation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
